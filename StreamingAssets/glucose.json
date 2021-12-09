@@ -1,0 +1,41 @@
+{
+    "titles": [
+        {
+            "titleTextEng": "Blood Glucose Targets",
+            "titleTextCym": "Targedau Glwcos Gwaed",
+            "subTitleTextEng": "Click on each time of the day to see what the recommended target for blood glucose are.",
+            "subTitleTextCym": "Cliciwch ar bob amser o'r dydd i weld beth yw'r targed a argymhellir ar gyfer glwcos yn y gwaed."
+            
+        }
+    ],
+    "timeOfDay": [
+        {
+            "popUpHeadingTxtEng": "On Waking",
+            "popUpHeadingTxtCym": "Ar ddeffro",
+            "popUpMainTxtEng": "The recommended target for waking is between 4 and 7 mmol/l. Your waking levels may vary but it can be useful to look for patterns. If your blood glucose is consistently higher or lower, talk to your diabetes team as you may need to adjust your insulin dose.",
+            "popUpMainTxtCym": "Y targed a argymhellir ar gyfer deffro yw rhwng 4 a 7 mmol / l. Gall eich lefelau deffro amrywio ond gall fod yn ddefnyddiol edrych am batrymau. Os yw'ch glwcos yn y gwaed yn gyson uwch neu is, siaradwch â'ch tîm diabetes oherwydd efallai y bydd angen i chi addasu'ch dos inswlin.",
+            "imageName":"BGT_1_popup"
+        },
+        {
+            "popUpHeadingTxtEng": "Before Meals",
+            "popUpHeadingTxtCym": "Cyn Prydau",
+            "popUpMainTxtEng": "The blood glucose target before meals is 4-7mmol/l. This is the normal range for a person who doesn’t have diabetes. It is useful to know if your blood glucose is above target before meals so that you can give extra insulin as a correction.",
+            "popUpMainTxtCym": "Y targed glwcos yn y gwaed cyn prydau bwyd yw 4-7mmol / l. Dyma'r ystod arferol i berson nad oes ganddo ddiabetes. Mae'n ddefnyddiol gwybod a yw'ch glwcos yn y gwaed yn uwch na'r targed cyn prydau bwyd fel y gallwch roi inswlin ychwanegol fel cywiriad.",
+            "imageName":"BGT_2_popup"
+        },
+        {
+            "popUpHeadingTxtEng": "2 Hours After Meals",
+            "popUpHeadingTxtCym": "2 Awr Ar ôl Prydau",
+            "popUpMainTxtEng": "The peak action of fast acting insulin is around 2-3 hours and so you would expect blood glucose to have come back down 2 hours after finishing eating. If your blood glucose is often higher than this it may mean that your insulin to carbohydrate ratio needs to adjusted.",
+            "popUpMainTxtCym": "Y weithred brig o inswlin sy'n gweithredu'n gyflym yw tua 2-3 awr ac felly byddech chi'n disgwyl y byddai glwcos yn y gwaed wedi dod yn ôl i lawr 2 awr ar ôl gorffen bwyta. Os yw'ch glwcos yn y gwaed yn aml yn uwch na hyn, gallai olygu bod angen addasu'ch cymhareb inswlin i garbohydrad.",
+            "imageName":"BGT_3_popup"
+        },
+        {
+            "popUpHeadingTxtEng": "Before Bed",
+             "popUpHeadingTxtCym": "Cyn Gwely",
+            "popUpMainTxtEng": "The before bed target of 4-8mmol/l is similar to the normal range. There are many factors that need to be considered at bedtime such as activity levels during the day, timing of evening meal or bedtime snack and needing to manage a high or low reading at bedtime. Your diabetes team will provide individual advice.",
+            "popUpMainTxtCym": "Mae'r targed cyn gwely o 4-8mmol / l yn debyg i'r ystod arferol. Mae yna lawer o ffactorau y mae'n rhaid eu hystyried amser gwely fel lefelau gweithgaredd yn ystod y dydd, amseriad pryd nos neu fyrbryd amser gwely ac angen rheoli darlleniad uchel neu isel amser gwely. Bydd eich tîm diabetes yn darparu cyngor unigol.",
+            "imageName":"BGT_4_popup"
+        }
+    ]
+}
