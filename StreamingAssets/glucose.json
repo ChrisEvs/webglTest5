@@ -37,5 +37,23 @@
             "popUpMainTxtCym": "Mae'r targed cyn gwely o 4-8mmol / l yn debyg i'r ystod arferol. Mae yna lawer o ffactorau y mae'n rhaid eu hystyried amser gwely fel lefelau gweithgaredd yn ystod y dydd, amseriad pryd nos neu fyrbryd amser gwely ac angen rheoli darlleniad uchel neu isel amser gwely. Bydd eich tîm diabetes yn darparu cyngor unigol.",
             "imageName":"BGT_4_popup"
         }
+    ],
+     "englishImgTxt": [
+        {
+            "Image1Eng": "On Waking",
+            "Image2Eng": "Before Meals",
+            "Image3Eng": "2 Hours After Meals",
+            "Image4Eng": "Before Bed"
+            
+        }
+    ],
+     "welshImgTxt": [
+        {
+            "Image1Cym": "Ar Ddeffro",
+            "Image2Cym": "Cyn Prydau",
+            "Image3Cym": "2 Awr Ar ôl Prydau",
+            "Image4Cym": "Cyn Gwely"
+            
+        }
     ]
 }
